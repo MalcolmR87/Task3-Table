@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+
+th, td {
+    padding: 15px;
+  }
+
+  table, th, td {
+    border: 1px solid red;
+    border-collapse: collapse;
+  }
+
+  caption {
+    padding-top: 100px;
+  }
