@@ -12,11 +12,15 @@ table {
     text-align: center;
 }
 
+caption{background-color: red; border:2px solid black; color: black; font-weight: 700;}
+
 th, td {
     padding: 15px;
   }
 
-  table, th, td {
+  th{background-color: red; border: 2px double black; color: black; font-weight: 700;}
+
+  table, td {
     border: 1px solid red;
     border-collapse: collapse;
   }
